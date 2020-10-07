@@ -1,2 +1,1 @@
-web: voila DT_calculator.ipynb
-
+web: voila —-port=$PORT —-no-browser DT_calculator.ipynb
